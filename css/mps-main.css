@@ -1,0 +1,12 @@
+.wp-classic-menu-block > .menu ul {
+  width: max-content;
+  padding: 1rem !important;
+  background: #FFFFFF;
+  border-radius: 0.4rem;
+  box-shadow: 0.1rem 0.1rem 1.4rem rgb(0 0 0 / 20%);
+  z-index: 99;
+}
+
+.wp-classic-menu-block > .menu li li {
+  padding-right: 0;
+}
